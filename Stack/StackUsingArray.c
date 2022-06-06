@@ -8,7 +8,7 @@ Language: 'C'.
 #include<stdio.h>
 #include<conio.h>
 
-#define STACK_SIZE 5   //Size of the stack
+#define STACK_SIZE 10   //Size of the stack
 int STACK[STACK_SIZE];  //Array declaration of the stack
 int TOP = -1;   //Pointer for the stack
 
